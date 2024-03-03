@@ -1,5 +1,4 @@
 import { textStackData } from '@/data/tech-stack'
-import FeatureIcon from './feature-icon'
 import Image from 'next/image'
 
 export default function TechStack() {
