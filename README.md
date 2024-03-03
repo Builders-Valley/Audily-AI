@@ -36,8 +36,8 @@ The backend is hosted on --. Visit the following link to view the web applicatio
 For that, you need to create a `.env.local` in `web` directory in your project, as shown in the [docs](https://nextjs.org/docs/basic-features/environment-variables#loading-environment-variables). The file should look like this:
 
 ```
-NEXT_PUBLIC_API_URL = https://essential-flame-416009.el.r.appspot.com
-NEXT_PUBLIC_CLOUD_URL=https://storage.googleapis.com/essential-flame-416009.appspot.com
+NEXT_PUBLIC_API_URL = "GET FROM GOOGLE CLOUD GEMINI AI"
+NEXT_PUBLIC_CLOUD_URL="GET FROM GOOGLE APP ENGINE"
 ```
 
 You also need to setup a few API keys for this project to be setup correctly otherwise you won't be able to properly work on this project
